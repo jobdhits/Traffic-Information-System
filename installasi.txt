@@ -1,0 +1,10 @@
+==================================================================
+	TATA CARA INSTALASI SIP CMS
+==================================================================
+
+1.  Seseuaikan konfigurasi .httacess anda pada bagian RewriteRule dengan mengganti 'disini' dengan alamat url anda jika menggunakan server offline (e.g wamp, xamp)
+    jika menggunakan web server online dapat langsung ke langkah 2.
+2.  Sesuaikan konfigurasi url anda pada bagian: application -> config -> config.php sesuaikan $config['base_url']
+3.  Sesuaikan konfigurasi pada bagian: application -> controllers ->admin_beranda.php dan application -> controllers ->admin_beranda.php, ganti semua url dengan website anda.
+3.  Sesuaikan Konfigurasi database dengan mengupload SIM CMS DEFAULT DB.sql.gz kedalam database server
+2.  Sesuaikan konfigurasi database anda pada bagian: application -> controllers -> database.php, sesuaikan hostname, username, passsword dan database
