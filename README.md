@@ -1,6 +1,6 @@
 # Traffic-Information-System
 Web Based Traffic Information System
 
-Live View visit : https://jasa-seo.co.id/
+Live View visit : https://boneka.co.id/
 
-Implementation: https://kpajak.com/
+Implementation: https://uangapp.com/
